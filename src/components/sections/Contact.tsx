@@ -18,7 +18,7 @@ const CONTACT_INFO = [
 
 const SOCIAL_LINKS = [
   { icon: <GitBranch size={18} />, href: "https://github.com/bacemsakji", label: "GitHub" },
-  { icon: <Link2 size={18} />, href: "https://www.linkedin.com/in/bacemsakji", label: "LinkedIn" },
+  { icon: <Link2 size={18} />, href: "https://www.linkedin.com/in/bacem-sakji-84183a245/", label: "LinkedIn" },
   { icon: <Code2 size={18} />, href: "https://leetcode.com/u/GK6MKKX2sl/", label: "LeetCode" },
 ];
 

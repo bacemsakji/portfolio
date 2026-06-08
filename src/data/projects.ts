@@ -61,4 +61,34 @@ export const projects: Project[] = [
     stack: ["Python", "Scapy", "Docker", "Linux", "Nmap"],
     github: "https://github.com/bacemsakji",
   },
+  {
+    id: "tsukuyomi",
+    title: "Tsukuyomi",
+    description:
+      "An intelligent, automated conversational agent (bot) on Instagram designed to manage, process, and respond to Instagram Direct Messages (DMs) in real time.",
+    details: [
+      "Integrates Instagram Graph API for real-time DM monitoring and response handling",
+      "Leverages advanced Large Language Model (LLM) for intelligent, context-aware conversations",
+      "Automated message processing with natural language understanding and generation",
+      "Real-time response system with low-latency message handling",
+      "Scalable architecture supporting multiple concurrent conversations",
+    ],
+    stack: ["Instagram Graph API", "LLM", "Python", "REST API", "Real-time Processing"],
+    github: "https://github.com/bacemsakji",
+  },
+  {
+    id: "hafirewall",
+    title: "HAfirewall",
+    description:
+      "Enterprise-grade, highly available (HA), and secure web infrastructure layer combining Virtual IP failover, Layer 4/7 Load Balancer, and Web Application Firewall array.",
+    details: [
+      "Virtual IP (VIP) failover mechanism for high availability and automatic failover",
+      "Layer 4/7 Load Balancer for intelligent traffic distribution and optimization",
+      "Web Application Firewall (WAF) array for comprehensive security protection",
+      "Enterprise-grade security with DDoS mitigation and threat detection",
+      "Scalable infrastructure supporting high-traffic applications",
+    ],
+    stack: ["VIP", "Load Balancer", "WAF", "Linux", "Network Security", "High Availability"],
+    github: "https://github.com/bacemsakji",
+  },
 ];

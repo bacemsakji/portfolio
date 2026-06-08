@@ -2,7 +2,7 @@ import { GitBranch, Link2, Mail, Code2 } from "lucide-react";
 
 const SOCIAL = [
   { icon: <GitBranch size={16} />, href: "https://github.com/bacemsakji", label: "GitHub" },
-  { icon: <Link2 size={16} />, href: "https://www.linkedin.com/in/bacemsakji", label: "LinkedIn" },
+  { icon: <Link2 size={16} />, href: "https://www.linkedin.com/in/bacem-sakji-84183a245/", label: "LinkedIn" },
   { icon: <Code2 size={16} />, href: "https://leetcode.com/u/GK6MKKX2sl/", label: "LeetCode" },
   { icon: <Mail size={16} />, href: "mailto:bassems944@gmail.com", label: "Email" },
 ];

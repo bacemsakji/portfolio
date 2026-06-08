@@ -4,7 +4,7 @@ import SectionHeader from "../ui/SectionHeader";
 
 const INTERESTS = [
   "Formula 1",
-  "Resident Evil",
+  "Video Games",
   "CTF competitions",
 ];
 

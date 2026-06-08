@@ -12,7 +12,6 @@ export default function ProjectCard({ project }: Props) {
 
   return (
     <motion.div
-      layout
       style={{
         background: "var(--bg-surface)",
         border: "1px solid var(--border)",
